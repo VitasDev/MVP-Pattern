@@ -1,2 +1,2 @@
-# MVP sample
-Clear MVP sample for beginners, without any interfaces and libraries
+# MVP example
+Clear MVP pattern example in Android Studio!
